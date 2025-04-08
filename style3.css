@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f9f9f9;
+    color: #333;
+  }
+  
+  header {
+  background-image: url('image1.png'); /* Image PNG dans un sous-dossier 'images' */
+  background-size: cover; /* Assure que l'image couvre toute la largeur */
+  background-position: center; /* Centre l'image dans le bandeau */
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 0.5rem;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  section {
+    margin-bottom: 3rem;
+  }
+  
+  h2, h3, h4 {
+    color: #444;
+  }
+  
+  ul {
+    margin-left: 1.5rem;
+  }
+  
+  footer {
+    text-align: center;
+    background: #1a1a1a;
+    color: white;
+    padding: 1rem;
+  }
+  
