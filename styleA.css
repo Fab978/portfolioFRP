@@ -10,7 +10,7 @@ body {
     background-image: url('pics.jpg'); /* Image PNG dans un sous-dossier 'images' */
     background-size: cover; /* Assure que l'image couvre toute la largeur */
     background-position: center; /* Centre l'image dans le bandeau */
-    color: white;
+    color: #FFF8DC;
     padding: 1rem;
     text-align: center;
   }
@@ -29,7 +29,7 @@ body {
   }
   
   nav a {
-    color: white;
+    color: #FFF8DC;
     text-decoration: none;
   }
   
