@@ -61,3 +61,44 @@ body {
     margin-top: 3rem;
   }
   
+
+  .image-container {
+    display: flex;              /* Utilise Flexbox pour aligner les éléments */
+    justify-content: center;    /* Centre les images horizontalement */
+    gap: 20px;                  /* Espacement entre les images */
+  }
+  
+  /* Style de la première image (Imaget) */
+  #Imaget {
+    display: block;         
+    margin: 40px auto;     
+    width: 50%;              /* Modifie la largeur selon ton besoin */
+    max-width: 1000px;     
+    height: auto;     
+  }
+  
+  /* Style de la deuxième image (Imaget2) */
+  #Imaget2 {
+    display: block;         
+    margin: 40px auto;     
+    width: 50%;              /* Modifie la largeur selon ton besoin */
+    max-width: 1000px;     
+    height: auto;     
+  }
+
+  #Imaget3 {
+    display: block;         
+    margin: 40px auto;     
+    width: 50%;              /* Modifie la largeur selon ton besoin */
+    max-width: 1000px;     
+    height: auto;     
+  }
+  
+  /* Style de la deuxième image (Imaget2) */
+  #Imaget4 {
+    display: block;         
+    margin: 40px auto;     
+    width: 50%;              /* Modifie la largeur selon ton besoin */
+    max-width: 1000px;     
+    height: auto;     
+  }
