@@ -66,4 +66,14 @@ body {
     width: 80%;             
     max-width: 1000px;     
     height: auto;     
+
+  }
+
+
+ #Imaget6 {
+    display: block;         
+    margin: 40px auto;     
+    width: 80%;             
+    max-width: 1000px;     
+    height: auto;     
   }
