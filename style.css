@@ -81,4 +81,12 @@ body {
 
 
 
+ #Imagetango {
+    display: block;         
+    margin: 100px auto;     
+    width: 40%;             
+    max-width: 100px;     
+    height: auto;     
+  }
+
 
